@@ -2,8 +2,8 @@
 
 ## Authors
 
-Hilmar Lapp<sup>1,2</sup>, Karen Cranston<sup>2</sup>, 
-Mine Çetinkaya-Rundel<sup>3</sup>, Mark Delong<sup>4</sup>,
+Hilmar Lapp<sup>1,2</sup>, Mine Çetinkaya-Rundel<sup>3</sup>, 
+Karen Cranston<sup>2</sup>, Mark Delong<sup>4</sup>,
 Erich Huang<sup>5</sup>, Dan Leehr<sup>1</sup>, Darin London<sup>5</sup>,
 Paul Magwene<sup>6</sup>
 
