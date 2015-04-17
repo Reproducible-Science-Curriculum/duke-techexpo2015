@@ -2,10 +2,12 @@
 
 ## Authors
 
-Hilmar Lapp<sup>1,2</sup>, Karen Cranston<sup>2</sup>, Mine Cetinkaya-Rundel<sup>3</sup>, 
-Mark Delong<sup>4</sup>, Erich Huang<sup>5</sup>, Dan Leehr<sup>1</sup>, Darin London<sup>5</sup>, Paul Magwene<sup>6</sup>
+Hilmar Lapp<sup>1,2</sup>, Karen Cranston<sup>2</sup>, 
+Mine Çetinkaya-Rundel<sup>3</sup>, Mark Delong<sup>4</sup>,
+Erich Huang<sup>5</sup>, Dan Leehr<sup>1</sup>, Darin London<sup>5</sup>,
+Paul Magwene<sup>6</sup>
 
-<sup>1</sup>Center for Genomic and Computational Biology, <sup>3</sup>Department of Statistical Science,
+<sup>1</sup>Center for Genomic and Computational Biology (GCB), <sup>3</sup>Department of Statistical Science,
 <sup>4</sup>Research Computing, <sup>5</sup>Office of Research Informatics, and <sup>6</sup>Department of Biology, Duke University<br/>
 <sup>2</sup>National Evolutionary Synthesis Center (NESCent)
 
